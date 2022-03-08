@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm a student of Masters in Virtual and Augmented Reality at Goldsmiths, University of London.
-\Before that I studied Computer Science and Engineering (Bachelor of Technology) at KIIT-DU, Bhubaneswar.
-\I love making VR experiences and I aspire to be a VR content creator.
+\n Before that I studied Computer Science and Engineering (Bachelor of Technology) at KIIT-DU, Bhubaneswar.
+\n I love making VR experiences and I aspire to be a VR content creator.
 
 <!--
 **YesItsSKM/YesItsSKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
