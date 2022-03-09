@@ -6,7 +6,7 @@ Before that I studied Computer Science and Engineering (Bachelor of Technology) 
 
 I love making VR experiences and I aspire to be a VR content creator.
 
-### Links:
+#### Links:
 
 [YouTube - Parallax Animations](https://www.youtube.com/channel/UCEWUO4EEAganduzMOSgn97g)
 
