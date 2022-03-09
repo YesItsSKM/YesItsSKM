@@ -10,7 +10,7 @@ I love making VR experiences and I aspire to be a VR content creator.
 
 [YouTube - Parallax Animations](https://www.youtube.com/channel/UCEWUO4EEAganduzMOSgn97g)
 
-[Instagramm Page](https://www.instagram.com/parallax.animations/)
+[Instagram Page](https://www.instagram.com/parallax.animations/)
 
 [LinkedIn](https://www.linkedin.com/in/yesitsskm/)
 
