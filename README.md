@@ -14,6 +14,11 @@ I love making VR experiences and I aspire to be a VR content creator.
 
 [LinkedIn](https://www.linkedin.com/in/yesitsskm/)
 
+
+
+![i-dont-know-who-you-are-but-i-have-a-certain-set-of-skills-so-pretty-please-hire-me](https://user-images.githubusercontent.com/36617987/158688998-b1c85c2d-2eda-492a-b01e-182d7cd24ad9.jpg)
+
+
 <!--
 **YesItsSKM/YesItsSKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
