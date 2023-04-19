@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm a student of Masters in Virtual and Augmented Reality at Goldsmiths, University of London.
+I'm an XR designer/dev specializing in environment design & VR. I focus on a better user experience along with efficient problem-solving. I also have an inclination towards visual arts & storytelling.
 
-Before that I studied Computer Science and Engineering (Bachelor of Technology) at KIIT-DU, Bhubaneswar.
-
-I love making VR experiences and I aspire to be a VR content creator.
+I'm a 2023 graduate of Masters in Virtual and Augmented Reality at Goldsmiths, University of London. I have a Computer Science & Engineering background.
 
 #### Links:
 
