@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an XR designer/dev specializing in environment design & VR. I focus on a better user experience along with efficient problem-solving. I also have an inclination towards visual arts & storytelling.
+I'm an XR designer/dev specializing in environment design & VR. I focus on better user experience along with efficient problem-solving. I also have an inclination towards visual arts & storytelling.
 
 I'm a 2023 graduate of Masters in Virtual and Augmented Reality at Goldsmiths, University of London. I have a Computer Science & Engineering background.
 
