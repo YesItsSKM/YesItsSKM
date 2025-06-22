@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm an XR designer/dev specializing in environment design & VR. I focus on better user experience along with efficient problem-solving. I also have an inclination towards visual arts & storytelling.
-
-I'm a 2023 graduate of Masters in Virtual and Augmented Reality at Goldsmiths, University of London. I have a Computer Science & Engineering background.
+I'm an VR designer/dev focusing on Environment design & VR Development. I focus on a better User Experience along with efficient problem-solving. I also have an inclination towards visual arts & storytelling.
 
 #### Links:
 
-[(YouTube) Parallax - Films & Animations](https://www.youtube.com/channel/UCEWUO4EEAganduzMOSgn97g)  |  [Instagram Page](https://www.instagram.com/pllx.films/)  |  [LinkedIn](https://www.linkedin.com/in/yesitsskm/)
+[(YouTube) Parallax - Films & Animations](https://www.youtube.com/channel/UCEWUO4EEAganduzMOSgn97g)  |  [Instagram Page](https://www.instagram.com/parallax.films_/)  |  [LinkedIn](https://www.linkedin.com/in/yesitsskm/)
 
 
 <!--
